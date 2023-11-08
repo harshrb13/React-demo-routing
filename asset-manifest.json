@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/React-demo-routing/static/css/main.cfbf8154.css",
+    "main.js": "/React-demo-routing/static/js/main.65c06824.js",
+    "index.html": "/React-demo-routing/index.html",
+    "main.cfbf8154.css.map": "/React-demo-routing/static/css/main.cfbf8154.css.map",
+    "main.65c06824.js.map": "/React-demo-routing/static/js/main.65c06824.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cfbf8154.css",
+    "static/js/main.65c06824.js"
+  ]
+}
